@@ -311,7 +311,7 @@ Clinical Recommendation
 ## Dashboard
 
 ```
-📌 Add Screenshot Here
+📌 Will be adding soon 
 ```
 
 ---
@@ -319,7 +319,7 @@ Clinical Recommendation
 ## Upload Screen
 
 ```
-📌 Add Screenshot Here
+📌 Will be adding soon 
 ```
 
 ---
@@ -327,7 +327,7 @@ Clinical Recommendation
 ## Prediction Result
 
 ```
-📌 Add Screenshot Here
+📌 Will be adding soon
 ```
 
 ---
