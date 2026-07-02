@@ -476,9 +476,11 @@ Information Science Engineering Student
 
 AI • Machine Learning • Deep Learning • Full Stack Development
 
-GitHub
 
-https://github.com/vedantvarma19
+Email : 
+
+workwithvedant19@gmail.com
+
 
 LinkedIn
 
