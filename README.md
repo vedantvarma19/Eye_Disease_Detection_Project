@@ -482,7 +482,7 @@ https://github.com/vedantvarma19
 
 LinkedIn
 
-https://linkedin.com/in/vedantvarma19
+https://www.linkedin.com/in/vedant-varma-14952232a/
 
 ---
 
