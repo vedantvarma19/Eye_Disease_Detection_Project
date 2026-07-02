@@ -103,3 +103,44 @@ with col2:
                 st.markdown(f"- {precaution}")
     else:
         st.info("Awaiting input retinal image file to initialize diagnostic analytics pipelines.")
+
+        # ==========================================
+# CUSTOM PORTFOLIO FOOTER REGION
+# ==========================================
+
+# Inject custom CSS to cleanly pin the footer container to the bottom-right corner 
+# of the screen without interfering with the main dashboard layout.
+st.markdown(
+    """
+    <style>
+    .custom-footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: transparent;
+        color: #888888;
+        text-align: right;
+        padding-right: 20px;
+        padding-bottom: 10px;
+        font-size: 12px;
+        z-index: 999;
+    }
+    .custom-footer a {
+        color: #4A90E2;
+        text-decoration: none;
+        margin-left: 10px;
+    }
+    .custom-footer a:hover {
+        text-decoration: underline;
+    }
+    </style>
+    <div class="custom-footer">
+        🚀 Project engineered by <b>Vedant</b> | 
+        📧 <a href="https://mail.google.com/mail/u/0/#inbox">Email</a> | 
+        💼 <a href="https://www.linkedin.com/in/vedant-varma-14952232a/" target="_blank">LinkedIn</a> | 
+        💻 <a href="https://github.com/vedantvarma19" target="_blank">GitHub</a>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
